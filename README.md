@@ -1,18 +1,20 @@
-# Differential-Drive-Mobile-Robot-Control
-Final Year Project – Control Study of a Differential Drive Mobile Platform using MATLAB and Simulink.
+# Differential Drive Mobile Robot Control
 
 ## Overview
 
-This project presents the modeling, simulation, and control of a differential-drive mobile robot developed as my Final Year Project for the Bachelor's degree in Electrical Engineering at the University of Science and Technology Houari Boumediene (USTHB).
+This repository presents my Bachelor's Final Year Project in Electrical Engineering completed at the University of Science and Technology Houari Boumediene (USTHB).
 
-The objective was to model the robot's kinematics and design PID controllers to achieve accurate speed regulation and trajectory tracking using MATLAB and Simulink.
+The project focuses on the modeling, simulation, and control of a Differential Drive Mobile Robot (DDMR) using MATLAB and Simulink.
+
+The developed control strategy combines DC motor modeling with PID speed controllers to achieve accurate wheel speed regulation and trajectory tracking.
 
 ---
 
-## Objectives
+## Project Objectives
 
 - Mathematical modeling of a differential-drive mobile robot
 - Kinematic analysis
+- DC motor modeling
 - PID controller design
 - Speed regulation
 - Trajectory tracking
@@ -22,37 +24,68 @@ The objective was to model the robot's kinematics and design PID controllers to 
 
 ---
 
-## Software
+## Technologies
 
 - MATLAB
 - Simulink
-
----
-
-## Skills Developed
-
+- PID Control
+- DC Motor Modeling
+- Differential Drive Robot
 - Control Engineering
-- Industrial Automation
-- Mathematical Modeling
-- Dynamic Systems
-- PID Controller Design
-- Simulation
-- Problem Solving
 
 ---
 
-## Supervisor
+## Repository Contents
 
-**Pr. Abdelaziz Kheloui**
+- Final Project Report
+- Project Presentation
+- MATLAB Scripts
+- Simulink Models
+- Simulation Results
+- Robot Animations
 
 ---
 
-## University
+## Main Features
+
+✔ Differential drive robot model
+
+✔ Open-loop motion control
+
+✔ DC motor mathematical model
+
+✔ PID speed control
+
+✔ Trajectory tracking
+
+✔ Simulation and performance evaluation
+
+---
+
+## Academic Information
+
+**University**
 
 University of Science and Technology Houari Boumediene (USTHB)
 
+**Supervisor**
+
+Pr. Abdelaziz Kheloui
+
+Academic Year: 2024–2025
+
 ---
 
-## Status
+## Results
 
-Bachelor Final Year Project (Completed)
+The developed controller successfully regulates the angular speed of both motors while allowing the robot to accurately follow predefined trajectories under various simulation scenarios.
+
+Future improvements may include obstacle avoidance, autonomous navigation, adaptive control, and integration with intelligent decision-making algorithms.
+
+---
+
+## Author
+
+Imad Arous
+
+Bachelor's Degree in Electrical Engineering
