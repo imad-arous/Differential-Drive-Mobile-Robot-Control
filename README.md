@@ -7,6 +7,19 @@ This repository presents my Bachelor's Final Year Project in Electrical Engineer
 The project focuses on the modeling, simulation, and control of a Differential Drive Mobile Robot (DDMR) using MATLAB and Simulink.
 
 The developed control strategy combines DC motor modeling with PID speed controllers to achieve accurate wheel speed regulation and trajectory tracking.
+## Project Architecture
+
+The following figure illustrates the complete Simulink model developed for the differential-drive mobile robot control system.
+
+![Project Architecture](Project_Architecture.jpg)
+
+---
+
+## Project Demonstration
+
+A short video demonstrating the simulation is included in this repository.
+
+📹 **Project Demonstration.mp4**
 
 ---
 
